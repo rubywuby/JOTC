@@ -1,0 +1,102 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "number2 CoC",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "Jungle Operations Training Center | Chain of Command",
+                "color": null
+              },
+              {
+                "title": "Army Headquarters",
+                "description": "----------------------------",
+                "color": null,
+                "fields": [
+                  {
+                    "name": "Cheif of Staff of the Army",
+                    "value": "General, rubenrosa7"
+                  },
+                  {
+                    "name": "Vice Chief of Staff of the Army",
+                    "value": "General, KDrax"
+                  },
+                  {
+                    "name": "Director of Army Staff",
+                    "value": "Lieutenant General, amare_bay"
+                  },
+                  {
+                    "name": "Inspector General of the Army",
+                    "value": "Lieutenant General, StrawberryEspion"
+                  },
+                  {
+                    "name": "Sergeant Major of the Army",
+                    "value": "Sergeant Major, vacant"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mark_of_the_United_States_Army.svg/1200px-Mark_of_the_United_States_Army.svg.png"
+                }
+              },
+              {
+                "title": "Joint Chiefs of Staff",
+                "description": "----------------------------",
+                "color": null,
+                "fields": [
+                  {
+                    "name": "Chairman,",
+                    "value": "General, FishFerocious"
+                  },
+                  {
+                    "name": "Vice Chairman,",
+                    "value": "General, rubenrosa7"
+                  },
+                  {
+                    "name": "Senior Enlisted Advisor,",
+                    "value": "Sergeant Major, VACANT"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://media.defense.gov/2021/Oct/04/2002867315/-1/-1/0/211004-D-D0439-1001.PNG"
+                }
+              },
+              {
+                "title": "Jungle Operations Training Center Staff",
+                "description": "----------------------------",
+                "color": null,
+                "fields": [
+                  {
+                    "name": "Commander,",
+                    "value": "Colonel, whospatrol"
+                  },
+                  {
+                    "name": "Deputy Commander",
+                    "value": "Lieutenant Colonel, vacant"
+                  },
+                  {
+                    "name": "Command Sergeant Major,",
+                    "value": "Command Sergeant Major, vacant"
+                  }
+                ],
+                "thumbnail": {
+                  "url": "https://m.media-amazon.com/images/I/51ZTd7r+6OL._AC_SY300_SX300_.jpg"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1088615839470723144/IOwkrk6kANufLpz5XF8aQ-M4JnD-M0RikoDkFyl6-Mxd7aVi2NIkHTBqsZq25BOlQKdE"
+        }
+      ]
+    }
+  ]
+}
